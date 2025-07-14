@@ -61,7 +61,7 @@
   width: 400px;
   height: 100px;
   background-color: #e5dcf0;
-  position: absolute; /* 絶対位置指定 */
+  position: relative; /* 相対位置指定 */
 }
 
 /* 位置指定 */
